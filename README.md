@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheTarikAyyildiz
 - 👀 I’m interested in completing CS50x 2024
 - 🌱 I’m currently learning basics of C
-- 💞️ I’m looking to collaborate on CS50 Curriculum
+
 
 
 <!---
