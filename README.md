@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @TheTarikAyyildiz
-- 👀 I’m interested in completing CS50x 2024
 
 
 
